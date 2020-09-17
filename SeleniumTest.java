@@ -1,9 +1,7 @@
-package selenium;
-
 import org.openqa.selenium.*;
 import org.openqa.selenium.chrome.*;
 
-public class selentest {
+public class SeleniumTest {
     public static void test() throws Exception {
 
         //Set path
